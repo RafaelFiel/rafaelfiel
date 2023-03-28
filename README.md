@@ -1,5 +1,9 @@
 ## Rafael de Freitas Fiel
 
+Seja muito bem-vindo ao meu perfil! Aqui você encontrará alguns projetos que criei.
+
+
+ ## Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
