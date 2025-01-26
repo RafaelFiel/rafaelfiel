@@ -23,7 +23,7 @@
 </div>
 
 <br /><br /><br /><br /><br /><br />
-
+##
 <div align="center">
 <p><strong> Languages and Tools</strong></p>
 <code><img height=60" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
@@ -35,7 +35,10 @@
 <code><img height=60" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
 </div>
 
-<br /><br />
+##
+<br />
+
+<br />
 
 <div align="center">
     <!-- <img src="https://github.com/RafaelFiel.png" alt="GitHub Profile Picture" width="25%" align="center"/> -->
@@ -47,3 +50,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelFiel&custom_title=Rafael's%20GitHub%20Activity%20Graph&bg_color=000&color=0061C3&line=626069&point=fff&area_color=2563eb&title_color=0061C3&area=true&hide_border=true" alt="RafaelFiel's Github Activity Graph" width="96%">
 </div>
+
+##
+<br />
