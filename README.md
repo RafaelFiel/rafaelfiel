@@ -12,7 +12,7 @@
   <p> 🌐 <strong>My Portfolio</strong>: <em>In Construction</em> </p>
   <p> 📫 You can find me here: ⤵️ </p>
   
-  <a href="https://mail.google.com/mail/u/?authuser=rafinhaffiel@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:rafinhaffiel@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
      
   <a href="https://www.linkedin.com/in/rafael-fiel" alt="Linkedin" target="_blank">
